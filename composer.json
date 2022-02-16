@@ -11,9 +11,6 @@
     "autoload": {
         "classmap":[
             "src/"
-        ],
-        "files":[
-            "src/constants.php"
         ]
     }
 }
