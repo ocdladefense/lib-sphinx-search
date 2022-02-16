@@ -1,0 +1,19 @@
+{
+    "name": "ocdladefense/lib-sphinx-search",
+    "description": "PHP wrapper classes for performing Sphinx fulltext searches.",
+		"license": "MIT",
+    "authors": [
+        {
+            "name": "Jose Bernal",
+            "email": "jbernal.web.dev@gmail.com"
+        }
+    ],
+    "autoload": {
+        "classmap":[
+            "src/"
+        ],
+        "files":[
+            "src/constants.php"
+        ]
+    }
+}
